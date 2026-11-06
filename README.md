@@ -12,13 +12,15 @@ This a design, creation, and simulated implementation of a 3-bit binary weighted
 
 ## Binary to Analog Conversion Values
 Mapping of 3-bit digital codes to ideal analog voltages:
-<img width="1536" height="2132" alt="unnamed" src="https://github.com/user-attachments/assets/89f07695-35a5-438e-9d5d-3d5957d87429" />
+
+<img width="807" height="405" alt="image" src="https://github.com/user-attachments/assets/e8378caf-1884-4ced-ae74-b746cde754df" />
 
 
 ---
 
 Deriving Vout Formula:
-<img width="807" height="405" alt="image" src="https://github.com/user-attachments/assets/e8378caf-1884-4ced-ae74-b746cde754df" />
+
+<img width="1536" height="2132" alt="unnamed" src="https://github.com/user-attachments/assets/89f07695-35a5-438e-9d5d-3d5957d87429" />
 
 ---
 
