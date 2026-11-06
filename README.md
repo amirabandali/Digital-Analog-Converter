@@ -6,7 +6,9 @@ This a design, creation, and simulated implementation of a 3-bit binary weighted
 ---
 
 ## Circuit Schematic
+3-Bit Binary Weighted R-2R-4R DAC Schematic:
 
+<img width="792" height="317" alt="image" src="https://github.com/user-attachments/assets/df1be2c6-4021-4885-a67b-849b24422407" />
 
 ---
 
